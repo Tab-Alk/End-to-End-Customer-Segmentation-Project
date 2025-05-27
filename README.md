@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project undertakes a customer segmentation analysis using the Online Retail Dataset. The primary goal was to identify distinct groups of customers based on their purchasing behavior, employing RFM (Recency, Frequency, Monetary) metrics and K-Means clustering. The aim is to provide actionable insights that can help in tailoring marketing efforts and understanding customer value.
+This project undertakes a customer segmentation analysis using the Online Retail Dataset on Kaggle. The primary goal was to identify distinct groups of customers based on their purchasing behavior, employing RFM (Recency, Frequency, Monetary) metrics and K-Means clustering. The aim is to provide actionable insights that can help in tailoring marketing efforts and understanding customer value.
 
 ## Methodology
 
