@@ -15,7 +15,7 @@ The approach to segmenting customers involved several key steps:
     * Monetary Value (M): Total amount spent.
 3.  **K-Means Clustering:** These RFM features were then standardized to ensure equal weighting, and the K-Means algorithm was applied to group customers into four distinct segments based on similarities in their RFM profiles.
 
-## Customer Segments Visualized
+## Customer Segments Visualization
 
 The chart below illustrates the distinct profiles of the four customer segments identified through K-Means clustering, based on their average Recency, Frequency, and Monetary values.
 
