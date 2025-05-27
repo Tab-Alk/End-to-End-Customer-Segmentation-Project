@@ -19,8 +19,6 @@ The approach to segmenting customers involved several key steps:
 
 The chart below illustrates the distinct profiles of the four customer segments identified through K-Means clustering, based on their average Recency, Frequency, and Monetary values.
 
-*(This is where you will embed your visualization. Make sure the image file, e.g., `segment_profiles.png`, is in your repository, perhaps in an `assets` or `images` folder.)*
-
 <img width="1143" alt="Screenshot 2025-05-27 at 12 25 40 PM" src="https://github.com/user-attachments/assets/9674c93e-0152-436b-904e-26948478fabc" />
 
 This visualization helps in understanding the defining characteristics of each segment at a glance. For instance, we can observe how segments differ in terms of recent purchasing activity, buying frequency, and overall spending.
