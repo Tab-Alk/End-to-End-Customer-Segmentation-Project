@@ -1,4 +1,4 @@
-# Online Retail Customer Segmentation Analysis
+# End to End Customer Segmentation Analysis
 
 ## Introduction
 
