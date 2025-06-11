@@ -30,7 +30,7 @@ The segmentation analysis, particularly highlighted by the visualization above, 
 * **Four Distinct Segments:** The K-Means clustering effectively partitioned customers into four groups, each with a unique RFM signature.
 * **Identification of a High-Value Segment:** One segment (Segment 2 in the notebook analysis) clearly stands out. As seen in the chart, these customers typically exhibit low recency (they've purchased recently), high frequency (they buy often), and high monetary value (they spend a lot).
 * **Significant Revenue Contribution:** Further analysis showed that this high-value segment is responsible for approximately **18.58% of the total revenue**. This underscores their critical importance to the business.
-* **Actionable Differences:** The other segments represent customers with different needs and behaviors—some might be newer customers with potential (e.g., moderate recency, lower frequency/monetary), while others might be at risk of churning (e.g., high recency, low frequency).
+* **Actionable Differences:** The other segments represent customers with different needs and behaviors—some might be newer customers with potential (e.g., moderate recency, lower frequency/monetary), while others might be at risk of churning (e.g., high recency, low frequency)
 
 These findings allow for a more strategic approach to customer engagement, moving beyond generic campaigns to more personalized interactions.
 
